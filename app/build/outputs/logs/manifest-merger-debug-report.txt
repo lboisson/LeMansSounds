@@ -1,0 +1,316 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:2:1-61:12
+MERGED from [com.android.support:design:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d779922998778e4d1a61432abb20d86/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:mediarouter-v7:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-28.0.0.aar/3a1318186e06845822383edc83ad6c76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/895132ce48717cfd4fc848353ae340c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/leo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c108ae763e316b19b886953b8d94753a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c0e467b5cdcaefcd8fb85a103ccac07e/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/097c0aa386c0f1c31bd8247458640e5d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6146998c52858d909054e3321fb34e00/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/29633eec07131b659959a10f5308e072/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6b67edcd02515f6b0bfc2ec62fd13352/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/012ec13a6623e0e515190627c23a0619/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/c8e33b01bc630b5f10be813ede59cf42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/abf66fd27c73d706026f14679a1fade1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/507f5598bdcacbc4d998d12840e43912/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/531c6acf1429658e196363038efbf872/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2ae7bba727ebd1b7f5aedc27057668a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2cc9e2c0906dbdf78127f3aed21d504d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/palette-v7-28.0.0.aar/e6ea8977896846f2eedbd2e720d32449/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/478e0e8e643a56836506f4abb6d736ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/4c60aa43b206bb8c4d4f24e3d0cf3e77/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/b814c26cfecdb90d457c31bf3cd3e69c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f82dbbc92053bbfbdb888fa6e08adf50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/756942ad3056575713521d342a962cca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/3e8ef421cdcd4543f29cf99bb5a8a7e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/93147007edfbe696420cfee1bd76bc26/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9944a2227964c6af3939ab34264a3276/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/34aa4cb88891f10818397c7de0689337/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0f0a0f52caef9b4d66b015b6a288c3e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/1e8811289d3548b72e990376e226b7b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/995bebc5177088c26848eae16f983c9d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fa5d4907e133e4cb2aa1f4151c65de90/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4c4bf05e60040c52ea17dee408591f5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/76977d3a208e21d40a980c3c5c8f5e11/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/leo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f6d657bd7f76315b134a7265e20238eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3362c068a3d32796098d35bb4d49d363/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/789648711746983f30d98453f656d6ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d2f34473703fd8014d232b14f186888e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/leo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/938d5027392c201fab24f199b395743a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4fa2178ed7fb59e8e3d5c2945a019422/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/leo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/adf2af80a57a05383b1bc5f86e7e5e66/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/leo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7b749cc173aff4175620225a2d2cfa87/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/leo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f40c88825b65a99cfe6c8016a32fcf29/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:4:5-39
+		INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml
+		INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:2:1-61:12
+		INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:2:1-61:12
+		INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:7:22-65
+application
+ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:9:5-59:19
+MERGED from [com.android.support:design:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d779922998778e4d1a61432abb20d86/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d779922998778e4d1a61432abb20d86/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/leo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c108ae763e316b19b886953b8d94753a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/leo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c108ae763e316b19b886953b8d94753a/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c0e467b5cdcaefcd8fb85a103ccac07e/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c0e467b5cdcaefcd8fb85a103ccac07e/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/097c0aa386c0f1c31bd8247458640e5d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/097c0aa386c0f1c31bd8247458640e5d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6146998c52858d909054e3321fb34e00/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6146998c52858d909054e3321fb34e00/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/29633eec07131b659959a10f5308e072/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/29633eec07131b659959a10f5308e072/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6b67edcd02515f6b0bfc2ec62fd13352/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6b67edcd02515f6b0bfc2ec62fd13352/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/012ec13a6623e0e515190627c23a0619/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/012ec13a6623e0e515190627c23a0619/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/995bebc5177088c26848eae16f983c9d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/995bebc5177088c26848eae16f983c9d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fa5d4907e133e4cb2aa1f4151c65de90/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fa5d4907e133e4cb2aa1f4151c65de90/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/995bebc5177088c26848eae16f983c9d/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:16:9-40
+	android:usesCleartextTraffic
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:10:9-44
+activity#com.example.lemanssounds.JSONTests
+ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:17:9-21:20
+	android:parentActivityName
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:20:13-55
+	android:label
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:19:13-38
+	android:name
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:18:13-38
+activity#com.example.lemanssounds.SettingsActivity
+ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:22:9-25:58
+	android:parentActivityName
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:25:13-55
+	android:label
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:24:13-60
+	android:name
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:23:13-45
+activity#com.example.lemanssounds.About
+ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:26:9-29:58
+	android:parentActivityName
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:29:13-55
+	android:label
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:28:13-39
+	android:name
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:27:13-34
+activity#com.example.lemanssounds.Help
+ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:30:9-33:58
+	android:parentActivityName
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:33:13-55
+	android:label
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:32:13-38
+	android:name
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:31:13-33
+activity#com.example.lemanssounds.MapsActivityCurrentPlace
+ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:34:9-42:20
+	android:parentActivityName
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:38:13-55
+	android:label
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:36:13-70
+	android:launchMode
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:35:13-53
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:39:13-41:49
+	android:value
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:41:17-46
+	android:name
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:40:17-63
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:44:9-46:55
+	android:value
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:46:13-52
+	android:name
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:45:13-58
+activity#com.example.lemanssounds.MainActivity
+ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:48:9-58:20
+	android:label
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:50:13-45
+	android:launchMode
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:51:13-44
+	android:theme
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:52:13-56
+	android:name
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:49:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:53:13-57:29
+action#android.intent.action.MAIN
+ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:54:17-69
+	android:name
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:54:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:56:17-77
+	android:name
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml:56:27-74
+uses-sdk
+INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml
+INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d779922998778e4d1a61432abb20d86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d779922998778e4d1a61432abb20d86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-28.0.0.aar/3a1318186e06845822383edc83ad6c76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-28.0.0.aar/3a1318186e06845822383edc83ad6c76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/895132ce48717cfd4fc848353ae340c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/895132ce48717cfd4fc848353ae340c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/leo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c108ae763e316b19b886953b8d94753a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/leo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c108ae763e316b19b886953b8d94753a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c0e467b5cdcaefcd8fb85a103ccac07e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c0e467b5cdcaefcd8fb85a103ccac07e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/097c0aa386c0f1c31bd8247458640e5d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/097c0aa386c0f1c31bd8247458640e5d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6146998c52858d909054e3321fb34e00/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6146998c52858d909054e3321fb34e00/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/29633eec07131b659959a10f5308e072/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/29633eec07131b659959a10f5308e072/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6b67edcd02515f6b0bfc2ec62fd13352/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6b67edcd02515f6b0bfc2ec62fd13352/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/012ec13a6623e0e515190627c23a0619/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/012ec13a6623e0e515190627c23a0619/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/c8e33b01bc630b5f10be813ede59cf42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/c8e33b01bc630b5f10be813ede59cf42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/abf66fd27c73d706026f14679a1fade1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/abf66fd27c73d706026f14679a1fade1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/507f5598bdcacbc4d998d12840e43912/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/507f5598bdcacbc4d998d12840e43912/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/531c6acf1429658e196363038efbf872/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/531c6acf1429658e196363038efbf872/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2ae7bba727ebd1b7f5aedc27057668a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2ae7bba727ebd1b7f5aedc27057668a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2cc9e2c0906dbdf78127f3aed21d504d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2cc9e2c0906dbdf78127f3aed21d504d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/palette-v7-28.0.0.aar/e6ea8977896846f2eedbd2e720d32449/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/palette-v7-28.0.0.aar/e6ea8977896846f2eedbd2e720d32449/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/478e0e8e643a56836506f4abb6d736ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/478e0e8e643a56836506f4abb6d736ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/4c60aa43b206bb8c4d4f24e3d0cf3e77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/4c60aa43b206bb8c4d4f24e3d0cf3e77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/b814c26cfecdb90d457c31bf3cd3e69c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/b814c26cfecdb90d457c31bf3cd3e69c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f82dbbc92053bbfbdb888fa6e08adf50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f82dbbc92053bbfbdb888fa6e08adf50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/756942ad3056575713521d342a962cca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/756942ad3056575713521d342a962cca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/3e8ef421cdcd4543f29cf99bb5a8a7e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/3e8ef421cdcd4543f29cf99bb5a8a7e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/93147007edfbe696420cfee1bd76bc26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/93147007edfbe696420cfee1bd76bc26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9944a2227964c6af3939ab34264a3276/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9944a2227964c6af3939ab34264a3276/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/34aa4cb88891f10818397c7de0689337/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/34aa4cb88891f10818397c7de0689337/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0f0a0f52caef9b4d66b015b6a288c3e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0f0a0f52caef9b4d66b015b6a288c3e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/1e8811289d3548b72e990376e226b7b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/1e8811289d3548b72e990376e226b7b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/995bebc5177088c26848eae16f983c9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/995bebc5177088c26848eae16f983c9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fa5d4907e133e4cb2aa1f4151c65de90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fa5d4907e133e4cb2aa1f4151c65de90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4c4bf05e60040c52ea17dee408591f5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4c4bf05e60040c52ea17dee408591f5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/76977d3a208e21d40a980c3c5c8f5e11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/76977d3a208e21d40a980c3c5c8f5e11/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/leo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f6d657bd7f76315b134a7265e20238eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/leo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f6d657bd7f76315b134a7265e20238eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3362c068a3d32796098d35bb4d49d363/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3362c068a3d32796098d35bb4d49d363/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/789648711746983f30d98453f656d6ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/789648711746983f30d98453f656d6ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d2f34473703fd8014d232b14f186888e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d2f34473703fd8014d232b14f186888e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/leo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/938d5027392c201fab24f199b395743a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/leo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/938d5027392c201fab24f199b395743a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4fa2178ed7fb59e8e3d5c2945a019422/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/leo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4fa2178ed7fb59e8e3d5c2945a019422/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/leo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/adf2af80a57a05383b1bc5f86e7e5e66/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/leo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/adf2af80a57a05383b1bc5f86e7e5e66/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/leo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7b749cc173aff4175620225a2d2cfa87/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/leo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7b749cc173aff4175620225a2d2cfa87/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/leo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f40c88825b65a99cfe6c8016a32fcf29/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/leo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f40c88825b65a99cfe6c8016a32fcf29/AndroidManifest.xml:20:5-44
+INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml
+INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml
+		INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml
+		ADDED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml
+		INJECTED from /home/leo/AndroidStudioProjects/LeMansSounds/LeMansSounds/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c0e467b5cdcaefcd8fb85a103ccac07e/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c0e467b5cdcaefcd8fb85a103ccac07e/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c0e467b5cdcaefcd8fb85a103ccac07e/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c0e467b5cdcaefcd8fb85a103ccac07e/AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c0e467b5cdcaefcd8fb85a103ccac07e/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c0e467b5cdcaefcd8fb85a103ccac07e/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c0e467b5cdcaefcd8fb85a103ccac07e/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c0e467b5cdcaefcd8fb85a103ccac07e/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c0e467b5cdcaefcd8fb85a103ccac07e/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c0e467b5cdcaefcd8fb85a103ccac07e/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6146998c52858d909054e3321fb34e00/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6146998c52858d909054e3321fb34e00/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6146998c52858d909054e3321fb34e00/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6146998c52858d909054e3321fb34e00/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/012ec13a6623e0e515190627c23a0619/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/012ec13a6623e0e515190627c23a0619/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/leo/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/012ec13a6623e0e515190627c23a0619/AndroidManifest.xml:24:13-58
